@@ -29,12 +29,9 @@ Gear transitions play a significant role in a vehicle's performance and efficien
 
 In conclusion, **Vehicle Telematics Analysis** demonstrates the capabilities of data analysis in understanding vehicle telematics. By delving into sensor data, we've gained deep insights into driving behavior, safety, and fuel efficiency. These insights open doors for vehicle optimization, enhanced safety measures, and improved driver experiences.
 
-To explore our findings and analyses in greater detail, we invite you to dive into our comprehensive [journal](journal.pdf).
 
 Feel free to explore the code and visualizations provided in this repository. If you have any questions or suggestions, please don't hesitate to reach out.
 
-## Author
 
-- John Doe ([GitHub](https://github.com/johndoe))
 
 
