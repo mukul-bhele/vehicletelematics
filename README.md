@@ -1,6 +1,6 @@
 # Vehicle Telematics Analysis
 
-Advanced Vehicle Telematics (Image).jpg
+![image](https://github.com/mukul-bhele/vehicletelematics/assets/145564456/d090e253-a1dd-48f4-8717-36273a036262)
 
 ## Introduction
 
