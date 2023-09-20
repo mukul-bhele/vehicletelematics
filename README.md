@@ -1,5 +1,6 @@
 # Vehicle Telematics Analysis
 
+Advanced Vehicle Telematics (Image).jpg
 
 ## Introduction
 
