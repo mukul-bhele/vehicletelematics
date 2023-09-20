@@ -25,8 +25,6 @@ One of the primary objectives of this project is to identify and analyze driving
 
 Sharp turns are a critical aspect of driving behavior. To detect these, we have implemented algorithms that leverage accelerometer and gyroscope data. These algorithms are designed to identify sharp turns based on both the rapid change in the vehicle's orientation and the angle of the turn. This allows us to gain insights into how drivers navigate turns and assess the safety of their driving habits.
 
-## Sharp Turns Detection
-
 - **Safety Significance**: Explains the importance of detecting sharp turns for driving safety.
 - **Sensor Data**: Details the use of accelerometer and gyroscope data.
 - **Orientation Changes**: Detects sharp turns through rapid vehicle orientation changes.
