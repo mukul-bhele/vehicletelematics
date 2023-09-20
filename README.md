@@ -9,6 +9,8 @@
 
 The core of this project revolves around data acquisition and sensor analysis. Raw data is collected from sensors like accelerometers and magnetometers, which are commonly found in modern vehicles. The data acquisition process involves thorough cleaning, processing, and conversion of raw sensor readings into meaningful and actionable information. This ensures that the data is ready for in-depth analysis.
 
+Dataset : https://www.kaggle.com/datasets/yunlevin/levin-vehicle-telematics
+
 - **Sensor Types**: Utilizes accelerometers and magnetometers for data collection.
 - **Data Preprocessing**: Describes data cleaning and preprocessing techniques.
 - **Actionable Insights**: Highlights the conversion of raw sensor data into actionable insights.
