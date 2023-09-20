@@ -1,10 +1,10 @@
 # Vehicle Telematics Analysis
 
-![image](https://github.com/mukul-bhele/vehicletelematics/assets/145564456/d090e253-a1dd-48f4-8717-36273a036262)
-
 ## Introduction
 
 **Vehicle Telematics Analysis** is a comprehensive exploration of telematics data, offering valuable insights into driving patterns, safety measures, and fuel efficiency. This project utilizes data collected from various sensors, including accelerometers and magnetometers, to provide a deeper understanding of driver behavior and enhance vehicle performance.
+
+![image](https://github.com/mukul-bhele/vehicletelematics/assets/145564456/d090e253-a1dd-48f4-8717-36273a036262)
 
 ## Data Acquisition and Sensors
 
