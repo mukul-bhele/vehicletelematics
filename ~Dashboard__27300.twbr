@@ -35,7 +35,7 @@
       </column>
       <column caption='Threshold Angular Acceleration' datatype='real' name='[Parameter 4]' param-domain-type='range' role='measure' type='quantitative' value='0.97476148076555891'>
         <calculation class='tableau' formula='0.97476148076555891' />
-        <range max='0.997312149430854' min='0.96110428865822362' />
+        <range max='0.9973121494308541' min='0.96110428865822362' />
       </column>
     </datasource>
     <datasource caption='Vehicle Telematics (Complete)' inline='true' name='federated.1j0ncx80dejv1q1cw2niq1wjchip' version='18.1'>
@@ -1462,7 +1462,7 @@
         <style>
           <style-rule element='axis'>
             <format attr='title' class='0' field='[federated.1ej2czx00l5pm312bqtba1jca4fb].[none:F1:qk]' scope='cols' value='Time' />
-            <encoding attr='space' class='0' field='[federated.1ej2czx00l5pm312bqtba1jca4fb].[sum:total_acceleration:qk]' field-type='quantitative' max='1.0' min='0.96' range-type='fixed' scope='rows' type='space' />
+            <encoding attr='space' class='0' field='[federated.1ej2czx00l5pm312bqtba1jca4fb].[sum:total_acceleration:qk]' field-type='quantitative' max='1.0' min='0.95999999999999996' range-type='fixed' scope='rows' type='space' />
           </style-rule>
           <style-rule element='worksheet'>
             <format attr='in-tooltip' field='[federated.1ej2czx00l5pm312bqtba1jca4fb].[attr:hard_brake_event:nk]' value='false' />
@@ -1536,7 +1536,7 @@
         <style>
           <style-rule element='axis'>
             <format attr='title' class='0' field='[federated.1ej2czx00l5pm312bqtba1jca4fb].[none:F1:qk]' scope='cols' value='Time' />
-            <encoding attr='space' class='0' field='[federated.1ej2czx00l5pm312bqtba1jca4fb].[avg:angular_acceleration:qk]' field-type='quantitative' max='1.0' min='0.95' range-type='fixed' scope='rows' type='space' />
+            <encoding attr='space' class='0' field='[federated.1ej2czx00l5pm312bqtba1jca4fb].[avg:angular_acceleration:qk]' field-type='quantitative' max='1.0' min='0.94999999999999996' range-type='fixed' scope='rows' type='space' />
           </style-rule>
           <style-rule element='refline'>
             <format attr='fill-above' id='refline0' value='#efebe8' />
@@ -1806,7 +1806,7 @@
       <simple-id uuid='{D113EC1E-F62F-4D41-9EB1-32250727D314}' />
     </dashboard>
   </dashboards>
-  <windows saved-dpi-scale-factor='1.25' source-height='63'>
+  <windows source-height='63'>
     <window class='worksheet' name='Driving Pattern'>
       <cards>
         <edge name='left'>
