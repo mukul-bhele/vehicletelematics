@@ -29,9 +29,9 @@ Preprocessing of the data were done in Excel. This involved handling missing dat
 The various kinds of analysis that has been done are:
 
 **1). Fuel Efficiency   
-2). Gear Detection
-3). Sharp Turn Detection
-4). Driving Pattern**
+2). Gear Detection   
+3). Sharp Turn Detection   
+4). Driving Pattern**   
 
 ## Fuel Efficiency
 
