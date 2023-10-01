@@ -19,8 +19,6 @@ This dataset contains essential metadata, including unique device IDs, timestamp
 
 This dataset serves as an example of the real-time data that we gather. This dataset was gathered on about 30 4-wheelers over the course of four months. While accelerometer data is gathered at 25 Hz (25 data points per second), OBD data is recorded at 1Hz frequency (one record per second).
 
-The following columns are as follows - Device Id, timestamp, trip id, accelerometer data, speed gathered from GPS, battery voltage, coolant temperature, diagnostic trouble codes, engine load, intake air temperature, manifold absolute pressure, calculated mileage, mass airflow, engine RPM, speed collected from OBD, timing advance, throttle position and magnetometer data.
-
 - **Sensor Types**: Utilizes accelerometers and magnetometers for data collection.
 - **Data Preprocessing**: Describes data cleaning and preprocessing techniques.
 - **Actionable Insights**: Highlights the conversion of raw sensor data into actionable insights.
