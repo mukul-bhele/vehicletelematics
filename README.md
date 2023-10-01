@@ -25,21 +25,12 @@ This dataset serves as an example of the real-time data that we gather. This dat
   
 Preprocessing of the data were done in Excel. This involved handling missing data, cleaning, and ensuring consistent formats. Also aggregated and filtered data, created new features, and conducted basic data quality checks using **Excel**.
 
-## Driving Patterns Analysis
-
-One of the primary objectives of this project is to identify and analyze driving patterns. By examining variables such as vehicle speed, RPM (Revolutions Per Minute), throttle position, and engine load over time, we gain insights into various aspects of driving behavior. This includes distinguishing between city and highway driving, detecting instances of aggressive driving, and pinpointing scenarios that promote fuel-efficient driving.
-
-- **Relevant Variables**: Examines speed, RPM, throttle position, and engine load.
-- **City vs. Highway Driving**: Distinguishes between driving patterns using speed data.
-- **Visualizations**: Utilizes scatter plots to identify driving clusters.
-  
-## Sharp Turns Detection
-
-Sharp turns are a critical aspect of driving behavior. To detect these, we have implemented algorithms that leverage accelerometer and gyroscope data. These algorithms are designed to identify sharp turns based on both the rapid change in the vehicle's orientation and the angle of the turn. This allows us to gain insights into how drivers navigate turns and assess the safety of their driving habits.
-
-- **Safety Significance**: Explains the importance of detecting sharp turns for driving safety.
-- **Sensor Data**: Details the use of accelerometer and gyroscope data.
-- **Orientation Changes**: Detects sharp turns through rapid vehicle orientation changes.
+## Analysis
+The various kinds of analysis that has been done are:
+**1). Fuel Efficiency
+2). Gear Detection
+3). Sharp Turn Detection
+4). Driving Pattern**
 
 ## Fuel Efficiency Insights
 
@@ -49,7 +40,6 @@ Optimizing fuel efficiency is a crucial goal for both drivers and vehicle manufa
 - **Variable Analysis**: Discusses the impact of engine load and throttle position on fuel efficiency.
 - **Visualizations**: Depicts relationships through scatter plots and heatmaps.
 
-
 ## Gear Detection
 
 Gear transitions play a significant role in a vehicle's performance and efficiency. We've developed a robust system for detecting gear changes using data such as speed and RPM. To achieve this, we've harnessed the power of Kernel Density Estimation (KDE) and Jenks Natural Breaks. These techniques allow us to accurately identify gear change points, providing valuable insights into how drivers utilize different gears during their journeys.
@@ -58,7 +48,22 @@ Gear transitions play a significant role in a vehicle's performance and efficien
 - **Methodology**: Explains the use of Kernel Density Estimation (KDE) and Jenks Natural Breaks for gear detection.
 - **Change Points**: Identifies gear change points using speed and RPM data.
 
+## Sharp Turns Detection
 
+Sharp turns are a critical aspect of driving behavior. To detect these, we have implemented algorithms that leverage accelerometer and gyroscope data. These algorithms are designed to identify sharp turns based on both the rapid change in the vehicle's orientation and the angle of the turn. This allows us to gain insights into how drivers navigate turns and assess the safety of their driving habits.
+
+- **Safety Significance**: Explains the importance of detecting sharp turns for driving safety.
+- **Sensor Data**: Details the use of accelerometer and gyroscope data.
+- **Orientation Changes**: Detects sharp turns through rapid vehicle orientation changes.
+  
+## Driving Patterns Analysis
+
+One of the primary objectives of this project is to identify and analyze driving patterns. By examining variables such as vehicle speed, RPM (Revolutions Per Minute), throttle position, and engine load over time, we gain insights into various aspects of driving behavior. This includes distinguishing between city and highway driving, detecting instances of aggressive driving, and pinpointing scenarios that promote fuel-efficient driving.
+
+- **Relevant Variables**: Examines speed, RPM, throttle position, and engine load.
+- **City vs. Highway Driving**: Distinguishes between driving patterns using speed data.
+- **Visualizations**: Utilizes scatter plots to identify driving clusters.
+  
 ## Conclusion
 
 In conclusion, **Vehicle Telematics Analysis** demonstrates the capabilities of data analysis in understanding vehicle telematics. By delving into sensor data, we've gained deep insights into driving behavior, safety, and fuel efficiency. These insights open doors for vehicle optimization, enhanced safety measures, and improved driver experiences.
