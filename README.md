@@ -10,6 +10,10 @@
 
 The core of this project revolves around data acquisition and sensor analysis. Raw data is collected from sensors like accelerometers and magnetometers, which are commonly found in modern vehicles. The data acquisition process involves thorough cleaning, processing, and conversion of raw sensor readings into meaningful and actionable information. This ensures that the data is ready for in-depth analysis.
 
+**About Data**
+The provided dataset is a sample of real-time data collected from around 30 different four-wheeled vehicles over a span of four months. Data collection occurs at varying frequencies: OBD data is recorded at a rate of 1Hz, equating to one record per second, while accelerometer data is sampled at a higher frequency of 25Hz, resulting in 25 data points per second.
+
+This dataset contains essential metadata, including unique device IDs, timestamps, trip IDs, accelerometer readings, GPS-derived speed measurements, battery voltage, coolant temperature, diagnostic trouble codes, engine load, intake air temperature, manifold absolute pressure, calculated fuel efficiency, mass airflow, engine RPM, OBD-derived speed, timing advance, throttle position, and magnetometer data.
 **Dataset** : https://www.kaggle.com/datasets/yunlevin/levin-vehicle-telematics
 
 This dataset serves as an example of the real-time data that we gather. This dataset was gathered on about 30 4-wheelers over the course of four months. While accelerometer data is gathered at 25 Hz (25 data points per second), OBD data is recorded at 1Hz frequency (one record per second).
