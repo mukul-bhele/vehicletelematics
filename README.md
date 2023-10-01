@@ -27,12 +27,13 @@ Preprocessing of the data were done in Excel. This involved handling missing dat
 
 ## Analysis
 The various kinds of analysis that has been done are:
-**1). Fuel Efficiency
+
+**1). Fuel Efficiency   
 2). Gear Detection
 3). Sharp Turn Detection
 4). Driving Pattern**
 
-## Fuel Efficiency Insights
+## Fuel Efficiency
 
 Optimizing fuel efficiency is a crucial goal for both drivers and vehicle manufacturers. Our analysis has uncovered a strong correlation between engine load, throttle position, and fuel efficiency. To make these relationships more tangible, we've created various visualizations, including scatter plots and heatmaps. These visualizations help us understand the optimal driving practices that contribute to improved fuel efficiency.
 
