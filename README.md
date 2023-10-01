@@ -22,6 +22,8 @@ This dataset serves as an example of the real-time data that we gather. This dat
 - **Sensor Types**: Utilizes accelerometers and magnetometers for data collection.
 - **Data Preprocessing**: Describes data cleaning and preprocessing techniques.
 - **Actionable Insights**: Highlights the conversion of raw sensor data into actionable insights.
+  
+Preprocessing of the data were done in Excel. This involved handling missing data, cleaning, and ensuring consistent formats. Also aggregated and filtered data, created new features, and conducted basic data quality checks using **Excel**.
 
 ## Driving Patterns Analysis
 
