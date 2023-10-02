@@ -64,7 +64,11 @@ One of the primary objectives of this project is to identify and analyze driving
 - **Relevant Variables**: Examines speed, RPM, throttle position, and engine load.
 - **City vs. Highway Driving**: Distinguishes between driving patterns using speed data.
 - **Visualizations**: Utilizes scatter plots to identify driving clusters.
-  
+
+## Dashboard
+ - Developed an interactive **Tableau** dashboard to effectively visualize driving patterns for both city and highway scenarios, highlighting sharp turns, hard braking events, acceleration variations, and average speeds. Additionally, incorporated fuel efficiency metrics, allowing users to gain valuable insights by applying various filters and parameters.
+ - Dashboard Link : https://drive.google.com/drive/folders/1GBTuSX0VZudNwjtdr69oVe6JCcmbGsZC?usp=drive_link
+   
 ## Conclusion
 
 In conclusion, **Vehicle Telematics Analysis** demonstrates the capabilities of data analysis in understanding vehicle telematics. By delving into sensor data, we've gained deep insights into driving behavior, safety, and fuel efficiency. These insights open doors for vehicle optimization, enhanced safety measures, and improved driver experiences.
