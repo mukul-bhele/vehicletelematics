@@ -1,12 +1,12 @@
-- **Device Id:** Each device is uniquely identified, and there is a one-to-one mapping between devices and cars.
+ - **Device Id:** Each device is uniquely identified, and there is a one-to-one mapping between devices and cars.
 
-- **Time Stamp:** Time stamp indicates the exact time when the data was collected, provided in the format Year-Month-Day Hrs:Min:Sec.
+ - **Time Stamp:** Time stamp indicates the exact time when the data was collected, provided in the format Year-Month-Day Hrs:Min:Sec.
 
-- **Trip ID:** Trip ID corresponds to a single trip, which commences when the car's engine is started and concludes when the engine is turned off.
+ - **Trip ID:** Trip ID corresponds to a single trip, which commences when the car's engine is started and concludes when the engine is turned off.
 
-- **accData (Accelerometer and Magnetometer Data):** This data is sourced from the OBD (On-Board Diagnostics) device, representing values in terms of G-force. It encompasses measurements across the X, Y, and Z axes, where the X-axis is horizontal, the Y-axis is vertical, and the Z-axis denotes the car's movement direction.
+ - **accData (Accelerometer and Magnetometer Data):** This data is sourced from the OBD (On-Board Diagnostics) device, representing values in terms of G-force. It encompasses measurements across the X, Y, and Z axes, where the X-axis is horizontal, the Y-axis is vertical, and the Z-axis denotes the car's movement direction.
 
-- **gps_speed:** This parameter signifies the vehicle's speed in kilometers per hour, determined via the GPS sensor.
+ - **gps_speed:** This parameter signifies the vehicle's speed in kilometers per hour, determined via the GPS sensor.
 
 - **battery:** Battery voltage corresponds to the voltage level of the car's battery, which supplies electrical energy to the vehicle.
 
