@@ -1,0 +1,41 @@
+The dataset consist of the following columns:
+
+1). Device Id: Each device is uniquely identified, and there is a one-to-one mapping between devices and cars.
+2). Time Stamp: Time stamp indicates the exact time when the data was collected, provided in the format Year-Month-Day Hrs:Min:Sec.
+3). Trip ID: Trip ID corresponds to a single trip, which commences when the car's engine is started and concludes when the engine is turned off.
+
+4). accData (Accelerometer and Magnetometer Data): This data is sourced from the OBD (On-Board Diagnostics) device, representing values in terms of G-force       
+                                                   It encompasses measurements across the X, Y, and Z axes, where the X-axis is horizontal, the Y-axis is 
+                                                   vertical, and the Z-axis denotes the car's movement direction.
+
+5). gps_speed: This parameter signifies the vehicle's speed in kilometers per hour, determined via the GPS sensor.
+6). battery: Battery voltage corresponds to the voltage level of the car's battery, which supplies electrical energy to the vehicle.
+
+7). cTemp (Coolant Temperature): This value denotes the temperature of the engine coolant in an internal combustion engine.
+                             The typical operational temperature range for most engines is between 90 to 104 degrees Celsius (195 to 220 degrees Fahrenheit).
+
+8). dtc (Diagnostic Trouble Codes): It indicates the number of diagnostic trouble codes detected. These codes are used by automobile manufacturers
+                                to diagnose issues related to the vehicle.
+
+9). eLoad (Engine Load): Engine load quantifies the volume of air (and fuel) drawn into the engine, comparing it to the theoretical maximum.
+
+10). iat (Intake Air Temperature): The Intake Air Temperature sensor (IAT) serves as an input signal for the Engine Control Unit (ECU) to calculate
+                              air mass volume for incoming air. This aids in determining the engine's fuel requirements to suit the prevailing air temperature.
+
+11). imap (Manifold Absolute Pressure): The manifold absolute pressure sensor (MAP sensor) is employed in an internal combustion engine's electronic control system.
+                                   It provides real-time data on manifold pressure to the engine's electronic control unit (ECU), which is crucial for
+                                   calculating air density, determining the engine's air mass flow rate, and influencing ignition timing.
+
+12). kpl (Kilometres per Litre): KMPL is a metric denoting mileage in kilometers per liter. It is derived from speed and the ratio of fuel to air mass flow.
+                            While this ratio remains constant for petrol cars, it may vary for other fuel types, potentially introducing some error in
+                            KMPL calculations.
+
+13). maf (Mass Air Flow): A mass (air) flow sensor (MAF) is utilized to ascertain the mass flow rate of air entering a fuel-injected internal combustion engine.
+                     This data is essential for the engine control unit (ECU) to accurately regulate and deliver the required fuel mass to the engine.
+
+14). rpm (Revolutions Per Minute): RPM here refers to engine RPM, indicating how many revolutions the engine's crankshaft makes in one minute.
+15). speed: Speed data is collected from the OBD device mounted in the car.
+16). tAdv (Timing Advance): Timing advance denotes the number of degrees, measured before top dead center (BTDC), at which the spark will ignite the air-fuel
+                       mixture in the combustion chamber during the compression stroke.
+
+17). tPos (Throttle Position): Throttle position signifies the degree to which the throttle is open, indicating the driver's desired level of power or speed.
